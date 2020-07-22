@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watch-e-commerce/static/css/main.f56d5f66.chunk.css",
+    "main.js": "/watch-e-commerce/static/js/main.61e67183.chunk.js",
+    "main.js.map": "/watch-e-commerce/static/js/main.61e67183.chunk.js.map",
+    "runtime-main.js": "/watch-e-commerce/static/js/runtime-main.2bbcc9f3.js",
+    "runtime-main.js.map": "/watch-e-commerce/static/js/runtime-main.2bbcc9f3.js.map",
+    "static/js/2.25ebac6f.chunk.js": "/watch-e-commerce/static/js/2.25ebac6f.chunk.js",
+    "static/js/2.25ebac6f.chunk.js.map": "/watch-e-commerce/static/js/2.25ebac6f.chunk.js.map",
+    "index.html": "/watch-e-commerce/index.html",
+    "precache-manifest.b4c82cb2313ab38dbf8c052d4a628260.js": "/watch-e-commerce/precache-manifest.b4c82cb2313ab38dbf8c052d4a628260.js",
+    "service-worker.js": "/watch-e-commerce/service-worker.js",
+    "static/css/main.f56d5f66.chunk.css.map": "/watch-e-commerce/static/css/main.f56d5f66.chunk.css.map",
+    "static/js/2.25ebac6f.chunk.js.LICENSE.txt": "/watch-e-commerce/static/js/2.25ebac6f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/watch-e-commerce/static/media/home.787594c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bbcc9f3.js",
+    "static/js/2.25ebac6f.chunk.js",
+    "static/css/main.f56d5f66.chunk.css",
+    "static/js/main.61e67183.chunk.js"
+  ]
+}
