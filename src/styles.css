@@ -2,6 +2,11 @@ body{
   font-family: 'Roboto Slab', serif;
   background-color: #ececec;
   color: #222831;
+  height: 100%;
+}
+
+html, #root, .jumbotron{
+  height: 100%;
 }
 
 .jumbotron{
@@ -178,6 +183,7 @@ body{
   .jumbotron{
     margin-top: -4.6%;
     padding: 16% 25% 20% 5%;
+    background-position: 58%;
   }
 
   .cart-btn{
@@ -240,7 +246,7 @@ body{
 
   .jumbotron{
     padding: 20% 25% 20% 5%;
-    background-position: 52%;
+    background-position: 60%;
   }
 }
 
