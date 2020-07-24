@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a1c40bdb315eae613044e1e7f302222",
+    "revision": "ab0cb0bbf1b6b72986137a06ad14a9ec",
     "url": "/watch-e-commerce/index.html"
   },
   {
-    "revision": "45918177695fd7b7c4cb",
+    "revision": "8ea50119544f7cd39bb1",
     "url": "/watch-e-commerce/static/css/main.f56d5f66.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/watch-e-commerce/static/js/2.25ebac6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45918177695fd7b7c4cb",
-    "url": "/watch-e-commerce/static/js/main.48925a3e.chunk.js"
+    "revision": "8ea50119544f7cd39bb1",
+    "url": "/watch-e-commerce/static/js/main.cd6ec5d7.chunk.js"
   },
   {
     "revision": "25fad20379b1e9d3b315",
