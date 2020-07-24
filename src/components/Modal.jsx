@@ -16,7 +16,7 @@ const Modal = (props) => {
         <div className="row">
           <div className="col-8 mx-auto col-md-8 col-lg-8 p-4 text-center text-capitalize" id="modal">
             <h4>Added to Cart</h4>
-            <img src={value.modalProduct.img} className="img-fluid" alt="" style={{margin: "2%"}}/>
+            <img src={process.env.PUBLIC_URL + value.modalProduct.img} className="img-fluid" alt="" style={{margin: "2%"}}/>
             <h5>{value.modalProduct.title}</h5>
             <h5 className="text-muted">price : <i className="fas fa-rupee-sign"></i>{value.modalProduct.price}</h5>
             <div onClick={ () => value.closeModal() } className="modal-btn">

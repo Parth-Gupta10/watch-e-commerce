@@ -15,7 +15,7 @@ const Details = (props) => {
       </div>
       <div className="row mb-5">
         <div className="col-md-6">
-          <img src={value.detailProduct.img} className="img-fluid" alt="product" />
+          <img src={process.env.PUBLIC_URL + value.detailProduct.img} className="img-fluid" alt="product" />
         </div>
         <div className="col-md-6">
           <h2>Model: {value.detailProduct.title}</h2>

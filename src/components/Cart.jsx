@@ -97,6 +97,8 @@ const Cart = (props) => {
 
             {cartItems}
 
+            <br/>
+
             <div className="row" style={{textAlign: 'right', display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
               <div className="col-12" style={{paddingRight: '5%'}}>
                 <div onClick={() => value.clearCart()} style={{display: 'inline-block'}}>

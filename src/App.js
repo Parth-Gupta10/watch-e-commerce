@@ -13,6 +13,7 @@ function App() {
     <>
       <Navbar />
       <Switch>
+        <Route exact path="/watch-e-commerce/" component={Home} />
         <Route exact path="/" component={Home} />
         <Route exact path="/products" component={ProductList} />
         <Route exact path="/details" component={Details} />

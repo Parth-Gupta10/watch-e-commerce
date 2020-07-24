@@ -14,7 +14,7 @@ const Product = (props) => {
     <div className="card">
       <div className="img-container" onClick={() => value.handleDetail(props.id)}>
         <Link to="/details">
-          <img src={props.img} className="card-img-top" alt="Product"/>
+          <img src={process.env.PUBLIC_URL + props.img} className="card-img-top" alt="Product"/>
         </Link>
       </div>
       <div className="card-footer">
